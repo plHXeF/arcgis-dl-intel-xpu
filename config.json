@@ -1,0 +1,9 @@
+{
+  "arcgis_pro_dir": "",
+  "project_path": "",
+  "runtime_root": "%LOCALAPPDATA%\\ArcGISProIntelXPU",
+  "environment_name": "pro-intel-xpu",
+  "source_environment": "",
+  "reuse_environment": "",
+  "auto_install": true
+}
