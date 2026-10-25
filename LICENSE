@@ -20,6 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This license covers original installer/runtime code in this bundle only.
-ArcGIS Pro, ArcPy, Esri Python packages and downloaded third-party libraries
-remain subject to their respective licenses. They are not included in this ZIP.
